@@ -1,0 +1,1055 @@
+[
+  {
+    "date": "03-23",
+    "time": null,
+    "event_name": "VALTINHO ANAST\u00c1CIO BRAZILIAN JAZZ & BOSSA",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/so-brasil-valtinho-anastacio-2/"
+  },
+  {
+    "date": "03-23",
+    "time": "21:00",
+    "event_name": "FRANK BASILE SEXTET",
+    "venue": "Smalls",
+    "is_sold_out": true,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29405-frank-basile-sextet/"
+  },
+  {
+    "date": "03-23",
+    "time": "22:30",
+    "event_name": "FRANK BASILE SEXTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29405-frank-basile-sextet/"
+  },
+  {
+    "date": "03-23",
+    "time": "22:30",
+    "event_name": "VANISHA GOULD TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29484-vanisha-gould-trio/"
+  },
+  {
+    "date": "03-23",
+    "time": "23:55",
+    "event_name": "AARON JOHNSON BOPLICITY",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29519-aaron-johnson-boplicity/"
+  },
+  {
+    "date": "03-24",
+    "time": null,
+    "event_name": "LESLIE PINTCHIK",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/piano-jazz-series-leslie-pintchik/"
+  },
+  {
+    "date": "03-24",
+    "time": "18:00",
+    "event_name": "DARYL SHERMAN TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29498-daryl-sherman-trio/"
+  },
+  {
+    "date": "03-24",
+    "time": "19:30",
+    "event_name": "DARYL SHERMAN TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29498-daryl-sherman-trio/"
+  },
+  {
+    "date": "03-24",
+    "time": "19:30",
+    "event_name": "STEVE NELSON QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29470-steve-nelson-quartet/"
+  },
+  {
+    "date": "03-24",
+    "time": "20:00",
+    "event_name": "VANGUARD JAZZ ORCHESTRA",
+    "venue": "Village Vanguard",
+    "is_sold_out": true,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-24",
+    "time": "21:00",
+    "event_name": "STEVE NELSON QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29470-steve-nelson-quartet/"
+  },
+  {
+    "date": "03-24",
+    "time": "21:00",
+    "event_name": "PASQUALE GRASSO TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29508-pasquale-grasso-trio/"
+  },
+  {
+    "date": "03-24",
+    "time": "22:00",
+    "event_name": "VANGUARD JAZZ ORCHESTRA",
+    "venue": "Village Vanguard",
+    "is_sold_out": true,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-24",
+    "time": "22:30",
+    "event_name": "PASQUALE GRASSO TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29508-pasquale-grasso-trio/"
+  },
+  {
+    "date": "03-24",
+    "time": "22:30",
+    "event_name": "ELEW TRIO",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29462-elew-trio/"
+  },
+  {
+    "date": "03-24",
+    "time": "23:55",
+    "event_name": "ELEW TRIO",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29462-elew-trio/"
+  },
+  {
+    "date": "03-25",
+    "time": null,
+    "event_name": "SAM DILLON QUARTET",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/sam-dillon-quartet/"
+  },
+  {
+    "date": "03-25",
+    "time": "18:00",
+    "event_name": "NEAL KIRKWOOD TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29408-neal-kirkwood-trio/"
+  },
+  {
+    "date": "03-25",
+    "time": "19:30",
+    "event_name": "NEAL KIRKWOOD TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29408-neal-kirkwood-trio/"
+  },
+  {
+    "date": "03-25",
+    "time": "19:30",
+    "event_name": "LEW TABACKIN TRIO BIRTHDAY SHOW",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29407-lew-tabackin-trio-birthday-show/"
+  },
+  {
+    "date": "03-25",
+    "time": "20:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-25",
+    "time": "21:00",
+    "event_name": "LEW TABACKIN TRIO BIRTHDAY SHOW",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29407-lew-tabackin-trio-birthday-show/"
+  },
+  {
+    "date": "03-25",
+    "time": "21:00",
+    "event_name": "ANDREA DOMENICI TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29425-andrea-domenici-trio/"
+  },
+  {
+    "date": "03-25",
+    "time": "22:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-25",
+    "time": "22:30",
+    "event_name": "ANDREA DOMENICI TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29425-andrea-domenici-trio/"
+  },
+  {
+    "date": "03-25",
+    "time": "22:30",
+    "event_name": "TYLER MITCHELL QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29472-tyler-mitchell-quartet/"
+  },
+  {
+    "date": "03-25",
+    "time": "23:55",
+    "event_name": "TYLER MITCHELL QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29472-tyler-mitchell-quartet/"
+  },
+  {
+    "date": "03-26",
+    "time": null,
+    "event_name": "ARCOIRIS SANDOVAL TRIO",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/arcoiris-sandoval-sonic-asylum-trio-no/"
+  },
+  {
+    "date": "03-26",
+    "time": "18:00",
+    "event_name": "HILARY GARDNER AND THE LONESOME PINES",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29409-hilary-gardner-and-the-lonesome-pines/"
+  },
+  {
+    "date": "03-26",
+    "time": "19:00",
+    "event_name": "Amina Figarova Sextet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/5889/?date=2025-03-26"
+  },
+  {
+    "date": "03-26",
+    "time": "19:30",
+    "event_name": "HILARY GARDNER AND THE LONESOME PINES",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29409-hilary-gardner-and-the-lonesome-pines/"
+  },
+  {
+    "date": "03-26",
+    "time": "19:30",
+    "event_name": "LEW TABACKIN TRIO BIRTHDAY SHOW",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29410-lew-tabackin-trio-birthday-show/"
+  },
+  {
+    "date": "03-26",
+    "time": "20:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-26",
+    "time": "21:00",
+    "event_name": "LEW TABACKIN TRIO BIRTHDAY SHOW",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29410-lew-tabackin-trio-birthday-show/"
+  },
+  {
+    "date": "03-26",
+    "time": "21:00",
+    "event_name": "NAT HARRIS TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29411-nat-harris-trio/"
+  },
+  {
+    "date": "03-26",
+    "time": "21:00",
+    "event_name": "Amina Figarova Sextet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/5889/?date=2025-03-26"
+  },
+  {
+    "date": "03-26",
+    "time": "22:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-26",
+    "time": "22:30",
+    "event_name": "NAT HARRIS TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29411-nat-harris-trio/"
+  },
+  {
+    "date": "03-26",
+    "time": "22:30",
+    "event_name": "ADAM NIEWOOD QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29473-adam-niewood-quartet/"
+  },
+  {
+    "date": "03-26",
+    "time": "23:55",
+    "event_name": "ADAM NIEWOOD QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29473-adam-niewood-quartet/"
+  },
+  {
+    "date": "03-27",
+    "time": null,
+    "event_name": "AXEL TOSCA\u2019S CUBAN JAM FEATURING DIVA XIOMARA LAUGART 8 & 10PM",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/cuban-jazz-night-with-axel-tosca-band-featuring-xiomara-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-4-2/"
+  },
+  {
+    "date": "03-27",
+    "time": "18:00",
+    "event_name": "TOM GUARNA QUARTET",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29412-tom-guarna-quartet/"
+  },
+  {
+    "date": "03-27",
+    "time": "19:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-27"
+  },
+  {
+    "date": "03-27",
+    "time": "19:30",
+    "event_name": "TOM GUARNA QUARTET",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29412-tom-guarna-quartet/"
+  },
+  {
+    "date": "03-27",
+    "time": "19:30",
+    "event_name": "MATT PAVOLKA'S HORNS BAND",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29413-matt-pavolkas-horns-band/"
+  },
+  {
+    "date": "03-27",
+    "time": "20:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-27",
+    "time": "21:00",
+    "event_name": "MATT PAVOLKA'S HORNS BAND",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29413-matt-pavolkas-horns-band/"
+  },
+  {
+    "date": "03-27",
+    "time": "21:00",
+    "event_name": "WILFIE WILLIAMS TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29414-wilfie-williams-trio/"
+  },
+  {
+    "date": "03-27",
+    "time": "21:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-27"
+  },
+  {
+    "date": "03-27",
+    "time": "22:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-27",
+    "time": "22:30",
+    "event_name": "WILFIE WILLIAMS TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29414-wilfie-williams-trio/"
+  },
+  {
+    "date": "03-27",
+    "time": "22:30",
+    "event_name": "JON BESHAY QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29499-jon-beshay-quartet/"
+  },
+  {
+    "date": "03-27",
+    "time": "23:55",
+    "event_name": "JON BESHAY QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29499-jon-beshay-quartet/"
+  },
+  {
+    "date": "03-28",
+    "time": null,
+    "event_name": "SAMUEL TORRES PRESENTS ALEGRIA",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/samuel-torres-presents-alegria/"
+  },
+  {
+    "date": "03-28",
+    "time": null,
+    "event_name": "OPEN FOR COCKTAILS",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/open-tonight-for-cocktails-jazz-recorded-2-2/"
+  },
+  {
+    "date": "03-28",
+    "time": "18:00",
+    "event_name": "VICTOR JONES AND THE ORCHESTRIO",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29474-victor-jones-and-the-orchestrio/"
+  },
+  {
+    "date": "03-28",
+    "time": "18:00",
+    "event_name": "BILL O'CONNELL TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29415-bill-oconnell-trio/"
+  },
+  {
+    "date": "03-28",
+    "time": "19:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-28"
+  },
+  {
+    "date": "03-28",
+    "time": "19:30",
+    "event_name": "VICTOR JONES AND THE ORCHESTRIO",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29474-victor-jones-and-the-orchestrio/"
+  },
+  {
+    "date": "03-28",
+    "time": "19:30",
+    "event_name": "BILL O'CONNELL TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29415-bill-oconnell-trio/"
+  },
+  {
+    "date": "03-28",
+    "time": "20:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": true,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-28",
+    "time": "21:00",
+    "event_name": "JONATHAN BARBER & VISION AHEAD",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29476-jonathan-barber-vision-ahead/"
+  },
+  {
+    "date": "03-28",
+    "time": "21:00",
+    "event_name": "ANTHONY WONSEY TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29502-anthony-wonsey-trio/"
+  },
+  {
+    "date": "03-28",
+    "time": "21:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-28"
+  },
+  {
+    "date": "03-28",
+    "time": "22:00",
+    "event_name": "GILAD HEKSELMAN",
+    "venue": "Village Vanguard",
+    "is_sold_out": false,
+    "events_url": "https://villagevanguard.squadup.com/2022.html",
+    "event_url": null
+  },
+  {
+    "date": "03-28",
+    "time": "22:30",
+    "event_name": "JONATHAN BARBER & VISION AHEAD",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29476-jonathan-barber-vision-ahead/"
+  },
+  {
+    "date": "03-28",
+    "time": "22:30",
+    "event_name": "ANTHONY WONSEY TRIO",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29502-anthony-wonsey-trio/"
+  },
+  {
+    "date": "03-28",
+    "time": "22:30",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-28"
+  },
+  {
+    "date": "03-28",
+    "time": "23:55",
+    "event_name": "ERIC WYATT QUARTET",
+    "venue": "Smalls",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29520-eric-wyatt-quartet/"
+  },
+  {
+    "date": "03-28",
+    "time": "23:55",
+    "event_name": "ROUND MIDNIGHT SOLO PIANO WITH JON THOMAS",
+    "venue": "Mezzrow",
+    "is_sold_out": false,
+    "events_url": "https://www.smallslive.com",
+    "event_url": "https://www.smallslive.com/events/29500-round-midnight-solo-piano-with-jon-thomas/"
+  },
+  {
+    "date": "03-29",
+    "time": null,
+    "event_name": "OPEN FOR COCKTAILS",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/open-tonight-for-cocktails-jazz-recorded-2/"
+  },
+  {
+    "date": "03-29",
+    "time": "19:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-29"
+  },
+  {
+    "date": "03-29",
+    "time": "21:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-29"
+  },
+  {
+    "date": "03-29",
+    "time": "22:30",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-29"
+  },
+  {
+    "date": "03-30",
+    "time": "19:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-30"
+  },
+  {
+    "date": "03-30",
+    "time": "21:00",
+    "event_name": "Jeremy Pelt Quintet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/1570/?date=2025-03-30"
+  },
+  {
+    "date": "03-31",
+    "time": null,
+    "event_name": "JONATHAN KREISBERG QUARTET",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/guitar-masters-series-jonathan-kreisberg-2-2-2-2-2/"
+  },
+  {
+    "date": "04-02",
+    "time": null,
+    "event_name": "TERRY WALDO\u2019S GOTHAM CITY RAGTIME BAND",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/terry-waldos-gotham-city-ragtime-band-2-2-3-2/"
+  },
+  {
+    "date": "04-02",
+    "time": "19:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-02"
+  },
+  {
+    "date": "04-02",
+    "time": "21:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-02"
+  },
+  {
+    "date": "04-03",
+    "time": "19:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-03"
+  },
+  {
+    "date": "04-03",
+    "time": "21:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-03"
+  },
+  {
+    "date": "04-04",
+    "time": "19:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-04"
+  },
+  {
+    "date": "04-04",
+    "time": "21:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-04"
+  },
+  {
+    "date": "04-04",
+    "time": "22:30",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-04"
+  },
+  {
+    "date": "04-05",
+    "time": "19:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-05"
+  },
+  {
+    "date": "04-05",
+    "time": "21:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-05"
+  },
+  {
+    "date": "04-05",
+    "time": "22:30",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-05"
+  },
+  {
+    "date": "04-06",
+    "time": "19:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-06"
+  },
+  {
+    "date": "04-06",
+    "time": "21:00",
+    "event_name": "Walter Smith III Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6256/?date=2025-04-06"
+  },
+  {
+    "date": "04-09",
+    "time": "19:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-09"
+  },
+  {
+    "date": "04-09",
+    "time": "21:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-09"
+  },
+  {
+    "date": "04-10",
+    "time": "19:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-10"
+  },
+  {
+    "date": "04-10",
+    "time": "21:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-10"
+  },
+  {
+    "date": "04-11",
+    "time": "19:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-11"
+  },
+  {
+    "date": "04-11",
+    "time": "21:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-11"
+  },
+  {
+    "date": "04-11",
+    "time": "22:30",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-11"
+  },
+  {
+    "date": "04-12",
+    "time": "19:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-12"
+  },
+  {
+    "date": "04-12",
+    "time": "21:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-12"
+  },
+  {
+    "date": "04-12",
+    "time": "22:30",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-12"
+  },
+  {
+    "date": "04-13",
+    "time": "19:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-13"
+  },
+  {
+    "date": "04-13",
+    "time": "21:00",
+    "event_name": "George Cables Quartet",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6257/?date=2025-04-13"
+  },
+  {
+    "date": "04-16",
+    "time": "19:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-16"
+  },
+  {
+    "date": "04-16",
+    "time": "21:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-16"
+  },
+  {
+    "date": "04-17",
+    "time": "19:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-17"
+  },
+  {
+    "date": "04-17",
+    "time": "21:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-17"
+  },
+  {
+    "date": "04-18",
+    "time": null,
+    "event_name": "MINGUS DYNASTY",
+    "venue": "Zinc",
+    "is_sold_out": false,
+    "events_url": "https://www.zincbar.com",
+    "event_url": "https://www.zincbar.com/event/mingus-dynasty/"
+  },
+  {
+    "date": "04-18",
+    "time": "19:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-18"
+  },
+  {
+    "date": "04-18",
+    "time": "21:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-18"
+  },
+  {
+    "date": "04-18",
+    "time": "22:30",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-18"
+  },
+  {
+    "date": "04-19",
+    "time": "19:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-19"
+  },
+  {
+    "date": "04-19",
+    "time": "21:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-19"
+  },
+  {
+    "date": "04-19",
+    "time": "22:30",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-19"
+  },
+  {
+    "date": "04-20",
+    "time": "19:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-20"
+  },
+  {
+    "date": "04-20",
+    "time": "21:00",
+    "event_name": "One for All featuring special guest Jon Faddis \u201cA Tribute to Jim Rotondi\u201d",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6258/?date=2025-04-20"
+  },
+  {
+    "date": "04-23",
+    "time": "19:00",
+    "event_name": "Cyrus Chestnut Trio",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6259/?date=2025-04-23"
+  },
+  {
+    "date": "04-23",
+    "time": "21:00",
+    "event_name": "Cyrus Chestnut Trio",
+    "venue": "Smoke Jazz Club",
+    "is_sold_out": false,
+    "events_url": "https://tickets.smokejazz.com/",
+    "event_url": "https://tickets.smokejazz.com/shows/6259/?date=2025-04-23"
+  }
+]
