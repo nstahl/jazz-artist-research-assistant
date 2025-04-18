@@ -155,7 +155,11 @@ def find_instagram(state: ArtistState):
 def find_youtube_videos(state: ArtistState):
     result = tavily_custom_search(query=f"{state.artist_name} performance youtube videos")
     youtube_videos = [search_result["url"] for search_result in result["results"] \
-                      if search_result["url"].startswith("https://www.youtube.com")]
+                      if search_result["url"].startswith("https://www.youtube.com") \
+                      and not "/videos" in search_result["url"] \
+                      and not "/channel/" in search_result["url"] \
+                      and not "/user/" in search_result["url"] \
+                      and not "/@" in search_result["url"]]
 
     new_message = f"I found {len(youtube_videos)} youtube videos for {state.artist_name}"
     
@@ -237,7 +241,7 @@ with open("all_artist_states.json", "w") as f:
     pass
 
 # Process artists concurrently
-with ThreadPoolExecutor(max_workers=3) as executor:
+with ThreadPoolExecutor(max_workers=1) as executor:
     artist_states = list(executor.map(process_artist, artist_names))
 
 print(f"\nWrote all artist states to all_artist_states.json")
