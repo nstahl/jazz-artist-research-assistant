@@ -4,6 +4,10 @@ import json
 import os
 from langchain_openai import ChatOpenAI
 import threading
+import time
+from typing import Optional, Any, Dict
+import random
+from tavily import TavilyClient
 
 # Load environment variables
 load_dotenv()
@@ -15,13 +19,15 @@ from typing import Optional, Any, Dict
 from tavily import TavilyClient
 
 # define search tool
-def tavily_custom_search(query: str, include_answer: Optional[str] = None) -> Dict[Any, Any]:
+def tavily_custom_search(query: str, include_answer: Optional[str] = None, max_retries: int = 5, base_delay: float = 1.0) -> Dict[Any, Any]:
     """
-    Custom Tavily search tool that allows direct configuration of the search.
+    Custom Tavily search tool that allows direct configuration of the search with exponential backoff.
     
     Args:
         query: The search query
-        search_type: Type of search ("search", "answer", or "advanced")
+        include_answer: Type of answer to include
+        max_retries: Maximum number of retry attempts
+        base_delay: Base delay in seconds for exponential backoff
         
     Returns:
         Dict containing search results
@@ -36,10 +42,24 @@ def tavily_custom_search(query: str, include_answer: Optional[str] = None) -> Di
     # Only add include_answer if it's provided
     if include_answer is not None:
         search_params["include_answer"] = include_answer
-    
-    response = client.search(**search_params)
-    
-    return response
+
+    for attempt in range(max_retries):
+        try:
+            response = client.search(**search_params)
+            return response
+        except Exception as e:
+            if attempt == max_retries - 1:  # Last attempt
+                raise  # Re-raise the last exception if all retries failed
+            
+            # Calculate delay with exponential backoff and jitter
+            delay = (base_delay * (2 ** attempt)) + (random.random() * 0.1)
+            
+            # Log the retry attempt
+            print(f"Tavily API request failed (attempt {attempt + 1}/{max_retries}). "
+                  f"Retrying in {delay:.2f} seconds... Error: {str(e)}")
+            
+            time.sleep(delay)
+            continue
 
 
 # define state class
@@ -200,12 +220,16 @@ builder.add_edge("find_youtube_videos", END)
 graph = builder.compile()
 
 from langchain_core.messages import HumanMessage
+
+
+concerts_data = []
 # Load artist names from jazz_concerts_data.json
-with open('jazz_concerts_data.json', 'r') as f:
-    concerts_data = json.load(f)
+with open('scraped_event_details_sorted.json', 'r') as f:
+    for line in f:
+        concerts_data.append(json.loads(line))
     
-# Extract unique artist names from concerts data
-artist_names = list(set(concert['event_name'] for concert in concerts_data))
+# Extract unique artist names from event_title in concerts data
+artist_names = list(set(concert['event_title'] for concert in concerts_data if 'event_title' in concert))
 
 artist_states = []
 
@@ -232,7 +256,6 @@ def process_artist(artist_name):
             json.dump(artist_state.to_json(), f)
             f.write("\n")
     # Sleep for 3 seconds to avoid Tavily API timeout
-    import time
     time.sleep(3)
     return artist_state
 
@@ -241,7 +264,7 @@ with open("all_artist_states.json", "w") as f:
     pass
 
 # Process artists concurrently
-with ThreadPoolExecutor(max_workers=1) as executor:
+with ThreadPoolExecutor(max_workers=2) as executor:
     artist_states = list(executor.map(process_artist, artist_names))
 
 print(f"\nWrote all artist states to all_artist_states.json")

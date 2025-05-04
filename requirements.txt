@@ -9,3 +9,4 @@ notebook
 tavily-python
 typing
 dataclasses
+tavily
